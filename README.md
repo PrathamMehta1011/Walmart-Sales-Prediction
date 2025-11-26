@@ -38,11 +38,9 @@ If your dataset came from Kaggle:
    - Correlation analysis between economic factors and sales
 
 3. **Modeling**
-   Possible models used:
+   Models used:
    - Linear Regression
    - Random Forest Regressor
-   - XGBoost
-   - Other regression models for comparison
 
 4. **Evaluation**
    - Metrics:
