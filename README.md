@@ -20,7 +20,7 @@ The dataset contains:
 - **CPI:** Consumer Price Index
 - **Unemployment:** Unemployment rate
 
-If your dataset came from Kaggle:
+Dataset came from Kaggle:
 > https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
 
 ---
